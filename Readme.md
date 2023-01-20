@@ -1,7 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Roman Batsevitch](https://up.htmlacademy.ru/htmlcss/36/user/2257799).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Карташов](https://htmlacademy.ru/profile/id77080).
+
 
 ---
 
